@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/-SWIFT-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20API-%23E1AD0E.svg?style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLITE-hotpink.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/SQLITE-55960c.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=yellow">
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
