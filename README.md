@@ -6,7 +6,7 @@
   
 <p align="center">
   <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
+    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/profile_dev.svg" width="30px">
     <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
   </em> 
   <br>
