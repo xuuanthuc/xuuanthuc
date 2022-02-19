@@ -19,10 +19,10 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
-* 🏆 I usually work with ***PHP language***
-* 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
-* 🔭 &ensp;I’m currently working on youtube <br />
+* 🏆 I usually work with ***Dart language***
+* 🌱 I'm learning ***Dart*** and ***Flutter*** 😍
+* 📫 Ask me anything you want [**here**](https://github.com/XuannThucc/XuannThucc/issues), If I were alive, I would reply within seconds 😉
+* 🔭 I’m currently working on NAL JSC Viet Nam <br />
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br/>
