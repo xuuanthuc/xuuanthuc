@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&logo=flutter">
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/-GITLAB-%666666?style=for-the-badge&logo=gitlab">
+<img src="https://img.shields.io/badge/-GITLAB-%66666666?style=for-the-badge&logo=gitlab">
 <img src="https://img.shields.io/badge/-SWIFT-orange.svg?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
