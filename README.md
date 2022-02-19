@@ -50,24 +50,9 @@
 
 <p align="center">
 <a href="https://github.com/ariscybertech">
- <img src="https://github-readme-stats.vercel.app/api?username=ariscybertech&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="Behruz's github stats"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=XuannThucc&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="XuannThucc's github stats"/>
 </a>
-<!--  <a href="https://github.com/ariscybertech"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariscybertech&layout=compact&theme=tokyonight&hide_langs_below=1" /> -->
-<!-- </a> -->
+<a href="https://github.com/ariscybertech">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuannThucc&layout=compact&theme=tokyonight&hide_langs_below=1" /> -->
+ </a>
 </p>
- 
-[website]: https://ariscybertech.com
-[twitter]: https://mobile.twitter.com/ARISCYBERTECH
-[youtube]: https://www.youtube.com/channel/UCLGRdAvjXoAjeaqexW-Rj_w
-[linkedin]: https://www.linkedin.com/in/aris-aris-803916221/
-[github]: https://github.com/ariscybertech
-[instagram]: https://www.instagram.com/ariscybertech/?hl=ru
-[facebook]: https://www.facebook.com/profile.php?id=100072963474345
-[medium]: https://medium.com/@ariscybertech
-[gmail]: ariscybertech@gmail.com
-[buymecoffee]: https://www.buymeacoffee.com/ariscybertech
-[stackoverflow]: https://stackoverflow.com/users/17326333/aris-aris
-[patreon]: https://www.patreon.com/aristech
-[fiverr]: https://www.fiverr.com/ariscybertech?up_rollout=true
-[udemy]: https://www.udemy.com/user/aristech/
