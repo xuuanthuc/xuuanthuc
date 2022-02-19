@@ -33,6 +33,15 @@
 
 <br/>
 
+<p align="center">
+<a href="https://github.com/ariscybertech">
+ <img src="https://github-readme-stats.vercel.app/api?username=XuannThucc&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="XuannThucc's github stats"/>
+</a>
+<a href="https://github.com/ariscybertech">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuannThucc&layout=compact&theme=tokyonight&hide_langs_below=1" />
+ </a>
+</p>
+
 ![divider](./images/divider.gif)
 
 <p align="center">
@@ -45,14 +54,3 @@
   </p>   
 </p>
 
-   
-<br />
-
-<p align="center">
-<a href="https://github.com/ariscybertech">
- <img src="https://github-readme-stats.vercel.app/api?username=XuannThucc&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="XuannThucc's github stats"/>
-</a>
-<a href="https://github.com/ariscybertech">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuannThucc&layout=compact&theme=tokyonight&hide_langs_below=1" /> -->
- </a>
-</p>
