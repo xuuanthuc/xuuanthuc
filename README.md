@@ -19,11 +19,10 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🏆 I usually work with ***Dart language***
-* 🌱 I'm learning ***Dart*** and ***Flutter*** 😍
+* 💼 Flutter Developer at [**NAL JSC**](https://nal.co.jp)
+* ❤️ I love writing Flutter, and learn about it
 * 📫 Ask me anything you want [**here**](https://github.com/XuannThucc/XuannThucc/issues), If I were alive, I would reply within seconds 😉
-* 🔭 I’m currently working on NAL JSC Viet Nam <br />
-* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+* 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br/>
 
