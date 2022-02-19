@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/figma-purple.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20API-%2338B2AC.svg?style=for-the-badge&logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-%23E1AD0E.svg?style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white">
    
 <p align="center"> 
