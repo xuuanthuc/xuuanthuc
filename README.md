@@ -35,6 +35,12 @@
 
 ### ***<img src="./images/dog_1.gif" width="80" /> Connect With Me***
 
+<p align="center">
+    	<code><a href="https://www.facebook.com/nguyenary/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/nguyenary"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="https://twitter.com/nguyen_ary"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
+	<code><a href="mailto:nguyenary14@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+</p>   
    
 <p align="center"> 
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
