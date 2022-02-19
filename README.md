@@ -31,6 +31,12 @@
 
 <img src="https://img.shields.io/badge/-DART-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&logo=flutter"><img src="https://img.shields.io/badge/-FLUTTER%20Bloc-blue?style=for-the-badge&logo=flutter"><img src="https://img.shields.io/badge/-SWIFT-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/REST%20API-%23E1AD0E.svg?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/SQLITE-55960c.svg?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=yellow"><img src="https://img.shields.io/badge/-GIT-666666?style=for-the-badge&logo=git"><img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/-GITLAB-333333?style=for-the-badge&logo=gitlab"><img src="https://img.shields.io/badge/photoshop-1155ba.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"><img src="https://img.shields.io/badge/illustrator-black.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=orange"><img src="https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20xd-purple.svg?style=for-the-badge&logo=adobe-xd&logoColor=white"><img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/XCODE-1155ba.svg?style=for-the-badge&logo=xcode&logoColor=white"><img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
+<details>
+  <summary>⚡ Connect with me</summary>
+  <br>
+   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nguyenary&custom_title=nguyenary's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <br/>
+</details>
    
 <p align="center"> 
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
