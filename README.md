@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-GITLAB-grey?style=for-the-badge&logo=gitlab">
-<img src="https://img.shields.io/badge/photoshop-green.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/photoshop-1155ba.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/figma-purple.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
