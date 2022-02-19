@@ -16,6 +16,7 @@
 <img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
 
 <br />
+
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
