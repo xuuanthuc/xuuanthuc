@@ -25,7 +25,6 @@
 * 🔭 &ensp;I’m currently working on youtube <br />
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
-<br />
 
 ### ***🛠 Tools & Technologies***
 
