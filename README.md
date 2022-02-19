@@ -36,9 +36,7 @@
 ![divider](./images/divider.gif)
 
 <p align="center">
-	
-### ***<img src="./images/dog_1.gif" width="80" /> Connect With Me***
-
+<i>Let's connect and chat with me! Open to anything under the sun.</i>
  <p align="center">
     	<code><a href="https://www.facebook.com/hi.xuan.chubby/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
 	<code><a href="https://www.linkedin.com/in/xuân-thực-đỗ-312184173/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
