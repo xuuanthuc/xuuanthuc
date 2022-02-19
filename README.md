@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/SQLITE-55960c.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=yellow">
-<img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git">
+<img src="https://img.shields.io/badge/-GIT-666666?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-GITLAB-grey?style=for-the-badge&logo=gitlab">
 <img src="https://img.shields.io/badge/photoshop-1155ba.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
