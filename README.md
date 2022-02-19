@@ -15,6 +15,8 @@
   
 <img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
 
+<br />
+
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
@@ -22,6 +24,8 @@
 * 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
 * 🔭 &ensp;I’m currently working on youtube <br />
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+
+<br />
 
 ### ***🛠 Tools & Technologies***
 
