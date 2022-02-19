@@ -31,6 +31,7 @@
 
 <img src="https://img.shields.io/badge/-DART-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"> 
 <img src="https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&logo=flutter">
+<img src="https://img.shields.io/badge/-FLUTTER%20Bloc-blue?style=for-the-badge&logo=flutter-bloc">
 <img src="https://img.shields.io/badge/-SWIFT-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20API-%23E1AD0E.svg?style=for-the-badge&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white">
