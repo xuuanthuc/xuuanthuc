@@ -4,6 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=Flutter+Developer+from+Viet+Nam;Nice+to+meet+you...!">
 </p>
   
+  
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
+
+### <img src="./images/stats.gif" width="30px"> ***About Me***
+
+* 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
+* 🏆 I usually work with ***PHP language***
+* 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
+* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+
+<br>
    
 <p align="center"> 
   <img alt="app-store" src="https://github.com/ariscybertech/ariscybertech/blob/main/publish/app-store.png" />
