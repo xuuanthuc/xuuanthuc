@@ -36,6 +36,7 @@
 ![divider](./images/divider.gif)
 
 <p align="center">
+	
 ### ***<img src="./images/dog_1.gif" width="80" /> Connect With Me***
 
  <p align="center">
