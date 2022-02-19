@@ -4,6 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=Flutter+Developer+from+Viet+Nam;Nice+to+meet+you...!" />
 </p>
   
+<p align="center">
+  <em>
+    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
+    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+  </em> 
+  <br>
+  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
+</p>
   
 <img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
 
