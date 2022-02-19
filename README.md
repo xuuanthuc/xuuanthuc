@@ -12,6 +12,7 @@
 * 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
 * 🏆 I usually work with ***PHP language***
 * 📫 Ask me anything you want [**here**](https://github.com/nguyenary/nguyenary/issues), If I were alive, I would reply within seconds 😉
+* 🔭 &ensp;I’m currently working on youtube <br />
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
