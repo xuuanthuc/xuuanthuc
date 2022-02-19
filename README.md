@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/-GITLAB-black?style=for-the-badge&logo=gitlab">
 <img src="https://img.shields.io/badge/-SWIFT-orange.svg?style=for-the-badge&logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual_studio_code&logoColor=white">
+<img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
