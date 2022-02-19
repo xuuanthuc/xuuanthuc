@@ -5,7 +5,7 @@
 </p>
   
   
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/Developer.gif" />
+<img align="right" width=245px height=180px alt="side_sticker" src="./images/Developer.gif" />
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
