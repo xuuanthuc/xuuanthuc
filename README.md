@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-GITLAB-grey?style=for-the-badge&logo=gitlab">
 <img src="https://img.shields.io/badge/photoshop-1155ba.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/illustrator-black.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=orange">
 <img src="https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe%20xd-purple.svg?style=for-the-badge&logo=adobe-xd&logoColor=white">
 <img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white">
