@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-DART-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"> 
 <img src="https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&logo=flutter">
 <img src="https://img.shields.io/badge/-SWIFT-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=yellow">
 <img src="https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=git">
 <img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-GITLAB-grey?style=for-the-badge&logo=gitlab">
@@ -39,7 +40,6 @@
 <img src="https://img.shields.io/badge/figma-purple.svg?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
    
