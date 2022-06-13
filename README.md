@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50"> Hi, I'm <a>Xuan Thuc!</a></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"> Hi, I'm <a>Xuan Thuc!</a></h1>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=Flutter+Developer+from+Viet+Nam;Nice+to+meet+you...!" />
@@ -17,7 +17,7 @@
 
 <br />
 
-### <img src="./images/stats.gif" width="30px"> ***About Me***
+### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
 * 💼 Flutter Developer at [**NAL JSC**](https://nal.co.jp)
 * ❤️ I love writing Flutter, and learn about it
