@@ -52,10 +52,10 @@
 <p align="center">
 <i>Let's connect and chat with me! Open to anything under the sun.</i>
  <p align="center">
-    	<code><a href="https://www.facebook.com/hi.xuan.chubby/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	<code><a href="https://www.linkedin.com/in/xuân-thực-đỗ-312184173/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	<code><a href="https://twitter.com/xuanthuc_273"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
-	<code><a href="mailto:dothuc273@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    	<code><a href="https://www.facebook.com/xuuanthuc"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
+	<code><a href="https://www.linkedin.com/in/xuan-thuc-b43a04288/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
+	<code><a href="https://twitter.com/XuuanThuc"><img width="30px" src="./images/twitter.png" title="Twitter"/></a></code>
+	<code><a href="mailto:xuuanthuc@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
   </p>   
 </p>
 
