@@ -19,9 +19,9 @@
 
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
-* 💼 Flutter Developer at [**NAL JSC**](https://nal.co.jp)
+* 💼 Flutter Developer at [**CMC Global**]([https://nal.co.jp](https://cmcglobal.com.vn/))
 * ❤️ I love writing Flutter, and learn about it
-* 📫 Ask me anything you want [**here**](https://github.com/XuannThucc/XuannThucc/issues), If I were alive, I would reply within seconds 😉
+* 📫 Ask me anything you want [**here**](https://github.com/xuuanthuc/xuuanthuc/issues), If I were alive, I would reply within seconds 😉
 * 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br/>
