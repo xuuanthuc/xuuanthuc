@@ -35,12 +35,12 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/ariscybertech">
+<a href="https://github.com/xuuanthuc">
  <img src="https://github-readme-stats.vercel.app/api?username=xuuanthuc&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="XuuanThuc's github stats"/>
 </p>
 
 <p align="center">
-<a href="https://github.com/ariscybertech">
+<a href="https://github.com/xuuanthuc">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuuanthuc&layout=compact&theme=tokyonight&hide_langs_below=1" />
  </a>
 </p>
