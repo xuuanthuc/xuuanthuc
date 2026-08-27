@@ -18,7 +18,7 @@
 <br />
 
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
-
+<br/>
 	Software Developer with approximately 5 years of experience across mobile application development, system integration, cloud services, business intelligence, and enterprise applications.
 <br/><br/>
 	Started with a strong background in Flutter and native mobile development, and later expanded into web development, cloud-based integrations, workflow automation, data processing, and BI solutions. 
