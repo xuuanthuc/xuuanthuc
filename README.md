@@ -19,31 +19,15 @@
 
 ### <img src="./images/stats.gif" width="30" height="30"> ***About Me***
 
-* 💼 Flutter Developer at [**CMC Global**](https://cmcglobal.com.vn/)
-* ❤️ I love writing Flutter, and learn about it
-* 📫 Ask me anything you want [**here**](https://github.com/xuuanthuc/xuuanthuc/issues), If I were alive, I would reply within seconds 😉
-* 🔭 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
+Software Developer with approximately 5 years of experience across mobile application development, system integration, cloud services, business intelligence, and enterprise applications.
+Started with a strong background in Flutter and native mobile development, and later expanded into web development, cloud-based integrations, workflow automation, data processing, and BI solutions. 
+Experienced in analyzing business requirements, designing technical solutions, integrating systems, and collaborating with cross-functional teams throughout the software development lifecycle.
 
 <br/>
 
 ### ***🛠 Tools & Technologies***
 
 <img src="https://img.shields.io/badge/-DART-%2320232a.svg?style=for-the-badge&logo=dart&logoColor=%2361DAFB"><img src="https://img.shields.io/badge/-FLUTTER-blue?style=for-the-badge&logo=flutter"><img src="https://img.shields.io/badge/-FLUTTER%20Bloc-blue?style=for-the-badge&logo=flutter"><img src="https://img.shields.io/badge/-SWIFT-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=white"><img src="https://img.shields.io/badge/-KOTLIN-%23593d88.svg?style=for-the-badge&logo=kotlin&logoColor=white"><img src="https://img.shields.io/badge/-JETPACK%20COMPOSE-%2320232a.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white"><img src="https://img.shields.io/badge/REST%20API-%23E1AD0E.svg?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=for-the-badge&logo=graphql&logoColor=white"><img src="https://img.shields.io/badge/SQLITE-55960c.svg?style=for-the-badge&logo=sqlite&logoColor=white"><img src="https://img.shields.io/badge/firebase-%23593d88.svg?style=for-the-badge&logo=firebase&logoColor=yellow"><img src="https://img.shields.io/badge/-GIT-666666?style=for-the-badge&logo=git"><img src="https://img.shields.io/badge/-GITHUB-%23323330.svg?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/-GITLAB-333333?style=for-the-badge&logo=gitlab"><img src="https://img.shields.io/badge/photoshop-1155ba.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white"><img src="https://img.shields.io/badge/illustrator-black.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=orange"><img src="https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white"><img src="https://img.shields.io/badge/Adobe%20xd-purple.svg?style=for-the-badge&logo=adobe-xd&logoColor=white"><img src="https://img.shields.io/badge/-android%20studio-%2338B2AC.svg?style=for-the-badge&logo=android-studio&logoColor=white"><img src="https://img.shields.io/badge/XCODE-1155ba.svg?style=for-the-badge&logo=xcode&logoColor=white"><img src="https://img.shields.io/badge/-VScode-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-
-<br/>
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/xuuanthuc">
- <img src="https://github-readme-stats.vercel.app/api?username=xuuanthuc&show_icons=true&layout=compact&theme=tokyonight&line_height=27" alt="XuuanThuc's github stats"/>
-</p>
-
-<p align="center">
-<a href="https://github.com/xuuanthuc">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuuanthuc&layout=compact&theme=tokyonight&hide_langs_below=1" />
- </a>
-</p>
 
 <br/>
 
